@@ -1,0 +1,29 @@
+body{
+    background: green;
+    margin: 13,30px;
+ 
+}
+header{
+    
+}
+
+h1{
+    color: red;
+    font-family: fantasy;
+}
+h2{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-size: 18px;
+    
+}
+
+ .img_padrao{
+    margin-bottom: 20px;
+    width: 20px;
+    }
+.logo{
+    width: 30px;
+}
